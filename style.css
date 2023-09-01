@@ -1,0 +1,46 @@
+* {
+    background-color: rgb(102, 30, 120);
+    text-align: center;
+    margin-top: 30px;
+}
+
+.searchbox {
+    background-color: rgb(213, 188, 215);
+    margin-bottom: 20px;
+    height: 25px;
+    width: 150px;
+}
+
+.city {
+    font-size: 40px;
+    color: white;
+    font-weight: normal;
+}
+
+.date {
+    color: white;
+    font-weight: lighter;
+}
+
+.temp {
+    color: white;
+    font-size: 45px;
+    font-weight: 900;
+    text-shadow: 2px 4px 4px black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.weather {
+    color: white;
+    font-weight: bold;
+    font-size: 500;
+
+}
+
+.hi-low {
+    color: white;
+    margin-top: 10px;
+    font-weight: 300;
+
+}
